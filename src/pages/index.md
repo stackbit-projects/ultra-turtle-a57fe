@@ -1,5 +1,5 @@
 ---
-title: Home
+title: Úvod
 hide_title: true
 sections:
   - type: hero_section
